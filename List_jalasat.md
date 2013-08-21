@@ -21,3 +21,8 @@ CSS Gradient<br />
 white-space<br />
 Github page<br />
 some other tips<br />
+<h2>Jalase 6</h2>
+Hover tips<br />
+Nested Submenu (2dar2)<br />
+pointer-events<br />
+Some other tips ...<br />
