@@ -51,3 +51,7 @@ Layout Grid System<br />
 1Styles<br />
 <h2>Jalase 11</h2>
 mabahase Git
+<h2>Jalase 12</h2>
+more on Git<br />
+Vertical Align Trick
+<h2>Jalase 13</h2>
