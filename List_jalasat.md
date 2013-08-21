@@ -32,3 +32,12 @@ Vertical Sub-menu<br />
 AccSlide Part 1<br />
 AccSlide Part 2<br />
 <h2>Jalase 8</h2>
+Main Colors<br />
+CMY vs RGB<br />
+HSL<br />
+Start layout<br />
+<h2>Jalase 8</h2>
+Main Colors<br />
+CMY vs RGB<br />
+HSL<br />
+Start layout<br />
