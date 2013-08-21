@@ -20,12 +20,12 @@ Paint: chand maddeye rangi ke ba ham mkhloot mishand
 Print: chand lakkeye rangi ke dar kenar ham gharar migirand
 be in tasavir tavajoh konin
 </pre>
-RGB (Light)
-https://f.cloud.github.com/assets/697913/835257/2569f9e6-f2d7-11e2-959c-c69897ec3ee2.jpg
-CMY (Print)
-https://f.cloud.github.com/assets/697913/839806/adf2fcfa-f358-11e2-9e41-c9dd674075a8.jpg
-RYB (Paint)
-https://f.cloud.github.com/assets/697913/835295/4eb6f370-f2d8-11e2-86b5-8553bc25176f.png
+RGB (Light)<br />
+https://f.cloud.github.com/assets/697913/835257/2569f9e6-f2d7-11e2-959c-c69897ec3ee2.jpg<br />
+CMY (Print)<br />
+https://f.cloud.github.com/assets/697913/839806/adf2fcfa-f358-11e2-9e41-c9dd674075a8.jpg<br />
+RYB (Paint)<br />
+https://f.cloud.github.com/assets/697913/835295/4eb6f370-f2d8-11e2-86b5-8553bc25176f.png<br />
 <pre>
 tasvire akhar charkheye rangist ke daneshmandi bozorg be name etem matrah kard
 
