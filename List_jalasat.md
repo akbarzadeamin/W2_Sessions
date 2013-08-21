@@ -15,3 +15,9 @@ Menu Structure<br />
 <h2>Jalase 4</h2>
 Important layout tips and rules<br />
 Sub-menu
+<h2>Jalase 5</h2>
+Sub-menu<br />
+CSS Gradient<br />
+white-space<br />
+Github page<br />
+some other tips<br />
