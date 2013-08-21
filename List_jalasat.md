@@ -41,3 +41,6 @@ Main Colors<br />
 CMY vs RGB<br />
 HSL<br />
 Start layout<br />
+<h2>Jalase 9</h2>
+Color Theory 2<br />
+Advance CSS Page Layouts<br />
