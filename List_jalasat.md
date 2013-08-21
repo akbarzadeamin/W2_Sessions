@@ -59,3 +59,9 @@ Stylus<br />
 Test website in cross-browsers<br />
 Licenses<br />
 humans.txt <br />
+<h2>Jalase 14</h2>
+SVG
+Web Fonts
+Google Web Font
+Icon
+CSSMIN
