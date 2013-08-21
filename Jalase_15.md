@@ -1,7 +1,7 @@
 <h1>HTML5 Shiv</h1>
-<pre>
-<script src="http://alimd.github.io/libs/html5shiv/3.6.2/html5shiv.min.js"></script>
-</pre>
+
+http://alimd.github.io/libs/html5shiv/3.6.2/html5shiv.min.js
+
 <h1>Final Layout Sample</h1>
 https://gist.github.com/AliMD/6218690 <br />
 hamoon layout ba design motefavet ! (be code hash kari nadashte bashin) : http://www.mixd.co.uk/about/
