@@ -61,13 +61,12 @@ ali.md/1fonts<br />
 http://jsbin.com/oqugij/1/edit<br />
 <h1>Icon</h1>
 http://fortawesome.github.io/Font-Awesome/
-<pre>
-<link type="text/css" rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.min.css" />
-<!--[if IE 7]>
-  <link type="text/css" rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome-ie7.min.css" />
-<![endif]-->
-</pre>
-<pre><i class="icon-book"></i></pre>
+
+http://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.min.css <br />
+
+http://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome-ie7.min.css<br />
+
+<i class="icon-book"></i> <br />
 http://jsbin.com/emocic/1/edit
 
 <h1>CSS3 Animate</h1>
@@ -76,7 +75,7 @@ http://docs.webplatform.org/wiki/tutorials/css_animations<br />
 http://jsbin.com/box/28/edit<br />
 tips: http://daneden.me/animate/ <br />
 <h3>age khastin reset beshe na normalize yani maslan margin ha hame 0 beshan !</h3>
-<link type="text/css" rel="stylesheet" href="http://alimd.github.io/libs/1reset/1.0/1reset_eric.css" />
+http://alimd.github.io/libs/1reset/1.0/1reset_eric.css <br />
 <h1>CSSMIN</h1>
 <pre>
 install
