@@ -65,3 +65,7 @@ Web Fonts
 Google Web Font
 Icon
 CSSMIN
+<h2>Jalase 15</h2>
+HTML5 Shiv<br />
+Google Map<br />
+width problem in layout
