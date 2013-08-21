@@ -55,3 +55,7 @@ mabahase Git
 more on Git<br />
 Vertical Align Trick
 <h2>Jalase 13</h2>
+Stylus<br />
+Test website in cross-browsers<br />
+Licenses<br />
+humans.txt <br />
