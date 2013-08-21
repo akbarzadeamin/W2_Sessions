@@ -26,3 +26,9 @@ Hover tips<br />
 Nested Submenu (2dar2)<br />
 pointer-events<br />
 Some other tips ...<br />
+<h2>Jalase 7</h2>
+Some layout tips for vertical menu<br />
+Vertical Sub-menu<br />
+AccSlide Part 1<br />
+AccSlide Part 2<br />
+<h2>Jalase 8</h2>
