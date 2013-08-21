@@ -44,3 +44,8 @@ Start layout<br />
 <h2>Jalase 9</h2>
 Color Theory 2<br />
 Advance CSS Page Layouts<br />
+<h2>Jalase 10</h2>
+CSS Page Layout Review<br />
+Layout Grid System<br />
+1Reset<br />
+1Styles<br />
